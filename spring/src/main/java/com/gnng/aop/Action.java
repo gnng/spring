@@ -12,5 +12,6 @@ import java.lang.annotation.Target;
 public @interface Action {
 	
 	String name();
+	String age();
 
 }
